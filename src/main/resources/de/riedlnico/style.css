@@ -1,0 +1,78 @@
+.anchor-pane {
+-fx-text-fill : #808080;
+-fx-background-color :  #2A2E37;
+}
+.grid {
+-fx-background-color :  white;
+-fx-border-color :  #4B6190;
+}
+.box {
+-fx-text-fill : #808080;
+-fx-background-color :  #2A2E37;
+-fx-border-color :  #4B6190;
+}
+.button{
+-fx-text-fill : #808080;
+-fx-background-color :  #2A2E37;
+-fx-border-color :  #4B6190;
+-fx-background-radius : 20;
+-fx-border-radius : 20;
+}
+.button:hover{
+-fx-background-color :  #2A2E37;
+-fx-border-color :  #4B6190;
+-fx-background-radius : 20;
+-fx-border-radius : 20;
+-fx-scale-x : 1.08;
+-fx-scale-y : 1.08;
+}
+.button:pressed{
+-fx-background-color :  #4B6190;
+-fx-border-color :  #4B6190;
+-fx-background-radius : 20;
+-fx-border-radius : 20;
+}
+.close_button{
+-fx-background-color :  #2A2E37;
+-fx-text-fill : #4B6190;
+-fx-background-radius : 20;
+-fx-border-radius : 20;
+}
+.close_button:hover{
+-fx-background-color :  #2A2E37;
+-fx-border-color :  #4B6190;
+-fx-background-radius : 20;
+-fx-border-radius : 20;
+-fx-scale-x : 1.08;
+-fx-scale-y : 1.08;
+}
+.close_button:pressed{
+-fx-background-color :  #4B6190;
+-fx-border-color :  #4B6190;
+-fx-background-radius : 20;
+-fx-border-radius : 20;
+}
+.text {
+-fx-fill: #4B6190;
+}
+.choicebox {
+-fx-text-fill : #808080;
+-fx-background-color :  #2A2E37;
+-fx-border-color :  #4B6190;
+-fx-background-radius : 20;
+-fx-border-radius : 20;
+}
+.choicebox:hover {
+-fx-background-color :  #2A2E37;
+-fx-border-color :  #4B6190;
+-fx-background-radius : 20;
+-fx-border-radius : 20;
+-fx-scale-x : 1.08;
+-fx-scale-y : 1.08;
+}
+.choicebox:pressed{
+-fx-background-color :  #4B6190;
+-fx-border-color :  #4B6190;
+-fx-background-radius : 20;
+-fx-border-radius : 20;
+}
