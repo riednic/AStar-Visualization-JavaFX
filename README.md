@@ -35,3 +35,12 @@
 ### **Grid after pathfinder was started**
 ![3](https://user-images.githubusercontent.com/79159673/115113800-609be780-9f8c-11eb-9466-7395cd1d6f96.JPG)
 
+### **JAR**
+Click [here] to get the .Jar file.
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [here]: https://github.com/riednic/AStar-Visualization-JavaFX/releases/download/v1.0.0/Pathfinding.Visualization.jar
+
+
+
